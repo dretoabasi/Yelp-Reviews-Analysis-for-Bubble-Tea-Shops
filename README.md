@@ -4,7 +4,7 @@ This project analyzes the Yelp review for bubble tea shops in the U.S.
 
 The analysis consists of two-part: The first part analyzes the bubble tea shops' location and the demography data in the U.S. The second part analyzes the Yelp reviews for the bubble tea shops in Newyork City using natural language processing.
 
-Please find the summary of key findings on Medium (Link to be added).
+Please find the summary of key findings on [Medium](https://towardsdatascience.com/yelp-reviews-analysis-for-bubble-tea-shops-f23094d3d32d).
 
 ## Project Overview
 This project aims to practice data wrangling, data analysis, and communicating data insight following the [CRISP-DM process](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining).
