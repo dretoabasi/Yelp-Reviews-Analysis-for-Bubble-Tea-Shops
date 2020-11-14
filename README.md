@@ -20,7 +20,9 @@ The questions posed in the analysis are:
 - What prompts the customer to give a 1-star review on Yelp for a bubble tea shop?
 
 # File Overview
-`yelp_location_demography.ipynb` : A spatial analysis for bubble tea shops with Yelp and U.S. demography dataset.
-`yelp_reviews_NLP.ipynb` : analysis Yelp reviews for bubble tea shops in Newyork City using natural language processing.
-All the relevant datasets are in the `Yelp-Reviews-Analysis-for-Bubble-Tea-Shops/dataset`.
+- `yelp_location_demography.ipynb` : A spatial analysis for bubble tea shops with Yelp and U.S. demography dataset.
+
+- `yelp_reviews_NLP.ipynb` : analysis Yelp reviews for bubble tea shops in Newyork City using natural language processing.
+
+- All the relevant datasets are in the `Yelp-Reviews-Analysis-for-Bubble-Tea-Shops/dataset`.
  
